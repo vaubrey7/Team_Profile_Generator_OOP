@@ -2,16 +2,14 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
 const html = require("./src/generatedHTML.js");
-
-// REQUIRED CLASSES //
 const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
 const Manager = require("./lib/Manager");
 
-// PROMISES for WRITING //
+// PROMISES //
 const writeFileAsync = util.promisify(fs.writeFile);
 
-// ARRAYS GENERATED //
+// ARRAYS //
 var teamWrite = ``;
 var teamArray = [];
 
@@ -89,7 +87,7 @@ async function prompt() {
 
             }
         } catch (err) {
-            return console.log(err, `I really broke it.`);
+            return console.log(err, `Error. Warning Will Robinson.`);
         }
         done = await inquirer.prompt([{
             //  if another employee needs to be created
