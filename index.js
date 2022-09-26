@@ -19,7 +19,7 @@ async function prompt() {
 
         try {
 
-            console.log(`Hello! \nFollow the prompts to create a new employee.`);
+            console.log(`Hi! \nPlease follow the prompts to create a new employee.`);
             let response = await inquirer.prompt([
                 {
                     type: "input",
