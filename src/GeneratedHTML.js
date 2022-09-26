@@ -46,7 +46,7 @@ const makeEmpCards = function (arr) {
 
     if (arr.role === "Engineer") {
         empEmojee = `<i class="fas fa-code"></i>`
-        roleE = `<i class="fas fa-code"></i> <a href="https://github.com/${arr.github}   rel="noopener" "target="_blank">${arr.github}</a>`
+        roleE = `<i class="fas fa-code"></i> <a href="https://github.com/${arr.github}"   rel="noopener" target="_blank">${arr.github}</a>`
     } else if (arr.role === "Intern") {
         empEmojee = `<i class="fas fa-university"></i>`
         roleE = `<i class="fas fa-university"></i> ${arr.school}!`

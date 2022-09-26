@@ -78,7 +78,7 @@ async function prompt() {
                 roleSelected = await inquirer.prompt([{
                     type: "input",
                     name: "putIn",
-                    message: "What is Office Number of the new Manager?",
+                    message: "What is the Office Number of the new Manager?",
                 },
                 ]);
                 const manager = new Manager(response.eName, response.eID, response.eMail, roleSelected.putIn);
