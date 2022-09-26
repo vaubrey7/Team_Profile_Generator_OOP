@@ -72,3 +72,6 @@ const makeEmpCards = function (arr) {
 </div>
 `
 }
+
+exports.generatedHTML = generatedHTML;
+exports.makeEmpCards = makeEmpCards;
