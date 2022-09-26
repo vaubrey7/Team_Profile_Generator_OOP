@@ -7,5 +7,5 @@ test("Testing Engineer Role", () => {
 })
 test("Testing Engineer GitHub", () => {
     const engineer = new Engineer("Vaughn", "34", "vaubrey7@gmail.com", "vaubrey7")
-        expect(engineer.getGithub()).toStrictEqual(`Engineer GitHub Username / Alias: Vaubrey7.`)
+        expect(engineer.getGithub()).toStrictEqual(`Engineer GitHub Username / Alias: vaubrey7.`)
 });
