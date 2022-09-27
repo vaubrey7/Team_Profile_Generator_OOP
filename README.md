@@ -7,9 +7,7 @@
 
 
 ## Screenshots 
-
-<img src="https://raw.githubusercontent.com/vaubrey7/Team_Profile_Generator_OOP/main/Assets/2022-09-26.png">
-<img src="https://raw.githubusercontent.com/vaubrey7/Team_Profile_Generator_OOP/main/Assets/2022-09-26%20(1).png">
+<img src="https://raw.githubusercontent.com/vaubrey7/Team_Profile_Generator_OOP/main/Assets/2022-09-26%20(2).png">
 
 
 
@@ -101,8 +99,8 @@ Class testing:
       .toContain("A Value")
 
 
-<img src = "https://raw.githubusercontent.com/vaubrey7/Team_Profile_Generator_OOP/main/Assets/2022-09-26.png">
-
+<img src ="https://raw.githubusercontent.com/vaubrey7/Team_Profile_Generator_OOP/main/Assets/2022-09-26.png">
+<img src="https://raw.githubusercontent.com/vaubrey7/Team_Profile_Generator_OOP/main/Assets/2022-09-26%20(1).png">
 
 
 
