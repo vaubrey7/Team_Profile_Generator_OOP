@@ -8,7 +8,7 @@
 
 ## Screenshots 
 
-<img src="C:\Users\vaubr\Desktop\Team_Profile_Generator_OOP\Assets\2022-09-26 (2).png">
+<img src="">
 
 
 
@@ -99,8 +99,9 @@ Class testing:
 
       .toContain("A Value")
 
-<img src="C:\Users\vaubr\Desktop\Team_Profile_Generator_OOP\Assets\2022-09-26 (1).png">
-<img src="C:\Users\vaubr\Desktop\Team_Profile_Generator_OOP\Assets\2022-09-26.png">
+![]
+<img src = "https://raw.githubusercontent.com/vaubrey7/Team_Profile_Generator_OOP/main/Assets/2022-09-26.png">
+
 
 
 ## Contribution 
