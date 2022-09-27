@@ -8,8 +8,8 @@
 
 ## Screenshots 
 
-<img src="">
-<img src="">
+<img src="C:\Users\vaubr\Desktop\Team_Profile_Generator_OOP\Assets\2022-09-26 (2).png">
+
 
 
 ## Table of Contents
@@ -99,7 +99,8 @@ Class testing:
 
       .toContain("A Value")
 
-<img src="">
+<img src="C:\Users\vaubr\Desktop\Team_Profile_Generator_OOP\Assets\2022-09-26 (1).png">
+<img src="C:\Users\vaubr\Desktop\Team_Profile_Generator_OOP\Assets\2022-09-26.png">
 
 
 ## Contribution 
